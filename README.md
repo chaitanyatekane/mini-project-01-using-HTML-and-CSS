@@ -1,2 +1,2 @@
 # mini-project-01-using-HTML-and-CSS
-Simple landing page just like resume or portfolio 
+Simple Landing Page Just Like Resume or Portfolio 
